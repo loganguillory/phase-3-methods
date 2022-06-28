@@ -39,7 +39,7 @@ function add(num1, num2) {
   return num1 + num2;
 }
 
-/*
+/* 
   You should be able to call this function with two arguments and get back its return value:
   const result = halve(4);
   console.log(result);
